@@ -1,6 +1,8 @@
-CREATE TABLE contacts(
+CREATE TABLE employees(
   id INTEGER PRIMARY KEY AUTO_INCREMENT,
-  fullname VARCHAR(255),
-  phone VARCHAR(255),
-  email VARCHAR(255) NOT NULL UNIQUE
+  name VARCHAR(255),
+  lastname VARCHAR(255),
+  phone CHAR(20),
+  carrer VARCHAR(90),
+  country VARCHAR(50)
 );

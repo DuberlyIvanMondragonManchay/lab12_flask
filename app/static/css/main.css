@@ -1,6 +1,10 @@
 body {
-  background: #8E2DE2;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #4A00E0, #8E2DE2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.377),
+    rgba(0, 0, 0, 0.9)
+    ), url("../../static/img/gato.jpeg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
