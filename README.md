@@ -1,6 +1,6 @@
 # Screenshot
 
-![](docs/screenshot.png)
+![](docs/gato.png)
 
 ### Installation
 
