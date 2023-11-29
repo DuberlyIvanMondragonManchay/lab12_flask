@@ -5,17 +5,8 @@
 ### Installation
 
 ```bash
-git clone https://github.com/FaztWeb/flask-crud-contacts-app
-cd flask-crud-contacts-app
+git clone https://github.com/DuberlyIvanMondragonManchay/lab12_flask
+cd lab12_flask
 pip install -r requirements.txt
 python app/main.py
 ```
-
-### issues
-- sudo apt-get install libmysqlclient-dev
-
-### TODO
-
-* [ ] add authentication
-* [ ] form validation
-* [ ] docker-compose
